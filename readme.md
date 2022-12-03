@@ -9,6 +9,9 @@ __Date:__ November 2022
 Here's a screenshot of my code camp dashboard  
 [![PennyLane Code Camp Dashboard](PLCC_dashboard.png)](https://codecamp.xanadu.ai/dashboard/home)  
   
+And here's my certificate for completing all the challenges  
+[![PennyLane Code Camp Certificate](PLCC_certificate.png)](https://verified.sertifier.com/en/verify/19919935603354)  
+  
 ## Description  
-Each challenges is saved as an `ipynb` here.  
-They are also saved as `html` for easier reference.  
+Each challenges is saved in the `ipynb` folder.  
+They are also `html` copies in the `html` folder.  
